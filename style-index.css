@@ -1,0 +1,21 @@
+@charset "utf-8";
+body * div {
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    text-align: center;
+}
+.header-container {
+}
+.logo-container {
+    display: inline-flex;
+}
+.site-logo {
+}
+.site-greeting {
+}
+.nav-container {
+    display: inline-flex;
+}
+.nav {
+}
